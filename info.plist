@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>alfred-indiehackers</string>
+	<string>Indie Hackers</string>
 	<key>bundleid</key>
 	<string>com.kevinridgway.alfred-indiehackers</string>
 	<key>category</key>
