@@ -28,7 +28,8 @@
   "keywords": [
     "alfred",
     "workflow",
-    "alfy"
+    "alfy",
+    "alfred-workflow"
   ],
   "dependencies": {
     "alfy": "*"
