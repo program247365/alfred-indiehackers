@@ -97,21 +97,21 @@
 	</array>
 	<key>readme</key>
 	<string></string>
-	<key>uidata</key>
+<key>uidata</key>
 	<dict>
 		<key>702B90D4-ABF1-44DA-96FC-96CBDDC33334</key>
 		<dict>
 			<key>xpos</key>
-			<integer>150</integer>
+			<integer>300</integer>
 			<key>ypos</key>
-			<integer>10</integer>
+			<integer>50</integer>
 		</dict>
 		<key>8CDB00DD-8D72-4DD9-A183-097C097F7D15</key>
 		<dict>
 			<key>xpos</key>
-			<integer>10</integer>
+			<integer>50</integer>
 			<key>ypos</key>
-			<integer>10</integer>
+			<integer>50</integer>
 		</dict>
 	</dict>
 </dict>
