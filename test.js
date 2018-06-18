@@ -1,14 +1,13 @@
 import test from 'ava';
 import alfyTest from 'alfy-test';
 
-test(async t => {
+// This is actually an integration test, which is what I want
+test('indie', async t => {
 	const alfy = alfyTest();
-	const result = await alfy('Rainbow');
+	const result = await alfy('indie');
 
-	t.deepEqual(result, [
-		{
-			title: 'Unicorn',
-			subtitle: 'Rainbow'
-		}
-	]);
+	t.true(result[0] !== null);
+	t.true(result[0].title !== null);
+	t.true(result[0].subtitle !== null);
+	t.true(result[0].arg !== null);
 });
