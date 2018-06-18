@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-$npm install --global alfred-indiehackers
+$npm install --global @program247365/alfred-indiehackers
 ```
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
