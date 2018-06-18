@@ -1,9 +1,9 @@
 {
-  "name": "alfred-indiehackers",
+  "name": "@program247365/alfred-indiehackers",
   "version": "0.0.0",
   "description": "An alfred workflow for browsing indiehackers.com posts.",
   "license": "MIT",
-  "repository": "program247365/alfred-indiehackers",
+  "repository": "https://github.com/program247365/alfred-indiehackers",
   "author": {
     "name": "Kevin B. Ridgway",
     "email": "kridgway@gmail.com",
