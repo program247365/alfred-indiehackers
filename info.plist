@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>indiehackers-alfredworkflow</string>
+	<string>alfred-indiehackers</string>
 	<key>bundleid</key>
-	<string>com.kevinridgway.indiehackers-alfredworkflow</string>
+	<string>com.kevinridgway.alfred-indiehackers</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>

@@ -1,13 +1,13 @@
 {
-  "name": "alfred-indiehackers-alfredworkflow",
+  "name": "alfred-indiehackers",
   "version": "0.0.0",
-  "description": "An alfred workflow for seeing indiehackers.com posts.",
+  "description": "An alfred workflow for browsing indiehackers.com posts.",
   "license": "MIT",
-  "repository": "program247365/alfred-indiehackers-alfredworkflow",
+  "repository": "program247365/alfred-indiehackers",
   "author": {
     "name": "Kevin B. Ridgway",
     "email": "kridgway@gmail.com",
-    "url": "kevinridgway.com"
+    "url": "https://kevinridgway.com/indie-hackers-alfred-workflow/"
   },
   "engines": {
     "node": ">=4"
@@ -16,6 +16,9 @@
     "test": "xo && ava",
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "files": [
     "index.js",
@@ -28,7 +31,7 @@
     "alfy"
   ],
   "dependencies": {
-    "alfy": "^0.6.0"
+    "alfy": "*"
   },
   "devDependencies": {
     "alfy-test": "^0.3.0",
