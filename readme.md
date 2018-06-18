@@ -1,5 +1,7 @@
 # Alfred IndieHackers Workflow
 
+![Alfred IndieHackers Workflow](icon.png)
+
 > An alfred workflow for seeing indiehackers.com posts.
 
 ## Install
