@@ -1,6 +1,6 @@
 # Indie Hackers Alfred Workflow
 
-![Indie Hackers Alfred Workflow](icon.png)
+![Indie Hackers Alfred Workflow](https://raw.githubusercontent.com/program247365/alfred-indiehackers/master/icon.png)
 
 > An [alfred](https://www.alfredapp.com/) workflow for seeing [indiehackers.com](https://www.indiehackers.com/) posts.
 
