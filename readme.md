@@ -1,8 +1,10 @@
-# Alfred IndieHackers Workflow
+# Indie Hackers Alfred Workflow
 
-![Alfred IndieHackers Workflow](icon.png)
+![Indie Hackers Alfred Workflow](icon.png)
 
-> An alfred workflow for seeing indiehackers.com posts.
+> An [alfred](https://www.alfredapp.com/) workflow for seeing [indiehackers.com](https://www.indiehackers.com/) posts.
+
+Read more about it in my blog post [Indie Hackers Alfred Workflow](https://kevinridgway.com/indie-hackers-alfred-workflow/)
 
 ## Install
 
