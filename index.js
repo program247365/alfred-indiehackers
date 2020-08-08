@@ -1,7 +1,7 @@
 'use strict';
 const alfy = require('alfy');
 
-const ENDPOINT = 'https://be-api.party/api/alfred-indiehackers';
+const ENDPOINT = 'https://alfred-indiehackers-service.program247365.vercel.app/api';
 
 alfy.fetch(ENDPOINT).then(data => {
 	const items = alfy
