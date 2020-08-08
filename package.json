@@ -1,6 +1,6 @@
 {
   "name": "@program247365/alfred-indiehackers",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "An alfred workflow for browsing indiehackers.com posts.",
   "license": "MIT",
   "repository": "https://github.com/program247365/alfred-indiehackers",
