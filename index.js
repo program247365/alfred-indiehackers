@@ -1,5 +1,5 @@
 'use strict';
-import alfy from 'alfy';
+const alfy = require('alfy');
 
 const ENDPOINT = 'https://alfred-indiehackers-service.program247365.vercel.app/api';
 

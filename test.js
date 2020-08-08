@@ -1,5 +1,5 @@
-import test from 'ava';
-import alfyTest from 'alfy-test';
+const test = require('ava');
+const alfyTest = require('alfy-test');
 
 // This is actually an integration test, which is what I want
 test('indie', async t => {
