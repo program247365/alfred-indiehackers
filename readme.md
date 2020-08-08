@@ -9,7 +9,7 @@ Read more about it in my blog post [Indie Hackers Alfred Workflow](https://kevin
 ## Install
 
 ```bash
-$npm install --global @program247365/alfred-indiehackers
+npm install --global @program247365/alfred-indiehackers
 ```
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
