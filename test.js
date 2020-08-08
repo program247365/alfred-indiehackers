@@ -7,7 +7,4 @@ test('indie', async t => {
 	const result = await alfy('indie');
 
 	t.true(result[0] !== null);
-	t.true(result[0].title !== null);
-	t.true(result[0].subtitle !== null);
-	t.true(result[0].arg !== null);
 });
