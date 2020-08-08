@@ -10,8 +10,9 @@
     "url": "https://kevinridgway.com/indie-hackers-alfred-workflow/"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=8"
   },
+  "type": "module",
   "scripts": {
     "test": "xo && ava",
     "postinstall": "alfy-init",
@@ -33,11 +34,11 @@
     "alfred-workflow"
   ],
   "dependencies": {
-    "alfy": "*"
+    "alfy": "^0.9.1"
   },
   "devDependencies": {
-    "alfy-test": "^0.3.0",
-    "ava": "^0.18.0",
-    "xo": "^0.17.0"
+    "alfy-test": "^0.4.0",
+    "ava": "^3.11.1",
+    "xo": "^0.32.1"
   }
 }
