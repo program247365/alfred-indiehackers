@@ -33,7 +33,7 @@
     "alfred-workflow"
   ],
   "dependencies": {
-    "alfy": "^0.11.0"
+    "alfy": "^0.12.0"
   },
   "devDependencies": {
     "alfy-test": "^0.4.0",
